@@ -1,0 +1,2 @@
+# SPSU.Neuronets
+Нейросети 
